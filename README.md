@@ -8,7 +8,6 @@ Computacion 3ro "A"
 **Descripción:**
 Quick Sort es un algoritmo de ordenación basado en el paradigma "divide y vencerás". La estrategia principal implica seleccionar un elemento pivote y dividir la lista en dos partes, organizando recursivamente cada sublista.
 
-**Uso:**
 ```Java
 
     public DynamicList<Venta> quickSort(DynamicList<Venta> lista, int inicio, int fin, String field, Integer tipo) throws Exception {
